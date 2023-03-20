@@ -16,10 +16,8 @@ h1{ font-family: 'Playfair Display', serif;
 	color: Khaki; 
  }
  #contenedor {
-	display: -webkit-flex;
   	display: flex;
-	 width: 90%;
-        margin: 2em auto;
+	 width: 100%;
   }
 #principal {
 	width: 70%;
@@ -41,10 +39,10 @@ h1{ font-family: 'Playfair Display', serif;
  }
 section {
 		
-    	margin: 20px;
-   	 	padding: 10px;
+    	margin: 10px;
+   	 padding: 10px;
     	border: 1px solid hwb(210 5% 95%);
-		background-color: #bdb76ba6
+	background-color: #bdb76ba6
 		
 }
 h1 {
