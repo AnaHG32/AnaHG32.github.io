@@ -12,12 +12,16 @@ h1{ font-family: 'Playfair Display', serif;
  #contenedor {
 	display: -webkit-flex;
   	display: flex;
+	 width: 90%;
+        margin: 2em auto;
   }
 #principal {
 	width: 70%;
+	float: left;
   }
 #sidebar {
 	width: 30%;
+	float: right;
   }
  p {
 	text-align: left;
