@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Mi Curriculum Vítae</title>
@@ -89,4 +88,4 @@
 </section>
 </section>
 </body>
-</html>
+
